@@ -29,7 +29,7 @@ async function main() {
     data: {
       date: "2022-11-09T12:00:00.661Z",
       firstTeamCountryCode: "DE",
-      secondeTeamCountryCode: "BR",
+      secondTeamCountryCode: "BR",
     },
   });
 
